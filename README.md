@@ -1,4 +1,4 @@
-# `SOFTJOINER` `🤷🏻`
+# `SOFTJOINER` `🤷🏻` [Support: [`Here`](https://discord.gg/MXuPYeDRk2)]
 > **Note**
 > This locks tokens on join, if you are trying to get tokens into a server, use a member botter
 # `PROXIES` `🌎`
